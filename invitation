@@ -1,0 +1,34 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Document</title> 
+</head> <style>     h2 {text-align: center;}     h3 {text-align: center;}     p {text-align: center;} 
+</style> 
+<body style="background-color: springgreen;"> 
+    <h2><marquee behavior="scroll" direction="right" scrollamount="20">DINNER 
+PARTY</marquee></h2> 
+    <PRE> 
+ 
+    </PRE> 
+    <h3 style="color:white;"> 
+        YOU ARE INVITED TO A CORPORATE PARTY </h3> 
+    <P><center>PLEASE JOIN US FOR...</center> 
+        <P><BIG><BIG>Dinner Night</BIG></BIG></P> 
+        <p><center><big>***</big></center></p> 
+        <PRE> 
+        </PRE> 
+        <P>A LUXURY DINNER EXPERIENCE AT</P> 
+        <P><BIG>SOUTH ISLAND HOTEL</BIG></P> 
+        <P><center>____________________</center></P> 
+        <p> <pre> 
+     <center> <big>    24 APRIL 2023 
+        SATURDAY 8:00PM></big></center> 
+             
+             
+        </pre></p> 
+ 
+</body> 
+</html> 
